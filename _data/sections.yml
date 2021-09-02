@@ -1,6 +1,8 @@
 - name: Selected Publications
   id: publications
-  description: 'Here are a selection of my academic papers spanning cognitive neuroscience, '
+  description: >-
+    Here are a selection of my academic papers spanning cognitive neuroscience,
+    developmental psychology and 
   url: publications.html
   first: true
 - name: Coursework
