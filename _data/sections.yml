@@ -4,7 +4,7 @@
     Here are a selection of my academic papers spanning cognitive neuroscience,
     developmental psychology, neuropharmacology, and education.
   url: publications.html
-  first: true
+  first: false
 - name: Coursework
   id: courses
   description: >-
