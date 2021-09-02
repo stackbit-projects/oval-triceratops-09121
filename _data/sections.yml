@@ -28,3 +28,8 @@
   content: null
   url: projects.html
   first: false
+- name: lorem-ipsum
+  id: lorem-ipsum
+  description: lorem-ipsum
+  url: lorem-ipsum
+  first: false
